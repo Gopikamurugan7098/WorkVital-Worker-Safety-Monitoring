@@ -43,3 +43,6 @@ Future Scope:
 
 Project Status
 Academic Project – WorkVital
+## WorkVital Prototype
+
+![WorkVital Prototype](images/WorkVital_Prototype.jpg)
